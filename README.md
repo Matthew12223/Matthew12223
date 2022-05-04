@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matthew12223
 - 👀 I’m interested in ... Python and PowerShell scripting for network and client automation.
-- 🌱 I’m currently learning ... Pyton
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Any projects involving Cisco network automation via Ansible or Python
 - 📫 How to reach me ... Via this account.
 
